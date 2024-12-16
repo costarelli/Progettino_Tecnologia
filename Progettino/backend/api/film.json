@@ -1,0 +1,43 @@
+{
+    "film":[
+        {
+            "nome":"inseption",
+            "anno":2010,
+            "regista":"christopher nolan",
+            "incassi":"825 milioni",
+            "immagine":"https://m.media-amazon.com/images/I/81pZ7BPAS0L._AC_UF1000,1000_QL80_.jpg"
+            },
+        {
+            "nome":"pap music",
+            "anno":2024,
+            "regista":"leikiè",
+            "incassi":"10 mila",
+            "immagine":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mymovies.it%2Ffilm%2F2024%2Fpapmusic-animation-for-fashion%2F&psig=AOvVaw1NQrQVnnccHC0vFv-rNON3&ust=1734442962722000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCUgte1rIoDFQAAAAAdAAAAABAS"
+        },
+        {
+            "nome":"Shrek",
+            "anno":2001,
+            "regista":"Andrewq Adamson",
+            "incassi":"484 milioni",
+            "immagine":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mymovies.it%2Ffilm%2F2024%2Fpapmusic-animation-for-fashion%2F&psig=AOvVaw1NQrQVnnccHC0vFv-rNON3&ust=1734442962722000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCUgte1rIoDFQAAAAAdAAAAABAS"
+        
+        },
+        {
+            "nome":"2001 oddissea nello spazio",
+            "anno":2001,
+            "regista":"Stanley Kubrick",
+            "incassi":"190 milioni",
+            "immagine":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thespacecinema.it%2Fextra%2F6803odisseanellospazio&psig=AOvVaw24Dgj9Fe5A1Pf-c8HsqUI1&ust=1734443372683000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDg35q3rIoDFQAAAAAdAAAAABAE"
+        
+        },
+        {
+            "nome":"2001 oddissea nello spazio",
+            "anno":2001,
+            "regista":"Stanley Kubrick",
+            "incassi":"190 milioni",
+            "immagine":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mymovies.it%2Ffilm%2F2024%2Fpapmusic-animation-for-fashion%2F&psig=AOvVaw1NQrQVnnccHC0vFv-rNON3&ust=1734442962722000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCUgte1rIoDFQAAAAAdAAAAABAS"
+        
+        }
+
+    ]
+}
