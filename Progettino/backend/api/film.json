@@ -31,11 +31,19 @@
         
         },
         {
-            "nome":"2001 oddissea nello spazio",
-            "anno":2001,
-            "regista":"Stanley Kubrick",
-            "incassi":"190 milioni",
-            "immagine":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mymovies.it%2Ffilm%2F2024%2Fpapmusic-animation-for-fashion%2F&psig=AOvVaw1NQrQVnnccHC0vFv-rNON3&ust=1734442962722000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCUgte1rIoDFQAAAAAdAAAAABAS"
+            "nome":"Snake on a Train",
+            "anno":2006,
+            "regista":" Peter Mervis",
+            "incassi":"10 mila",
+            "immagine":"https://m.media-amazon.com/images/M/MV5BMjA5OTgyMzE0Nl5BMl5BanBnXkFtZTgwMDczNjg4MDE@._V1_FMjpg_UX1000_.jpg"
+        
+        },
+        {
+            "nome":"Avventura nella landa del",
+            "anno":2000,
+            "regista":"Dingo Pictures",
+            "incassi":"100",
+            "immagine":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.faire.com%2Fit%2Fproduct%2Fp_rdww4svfuy&psig=AOvVaw2IWAmRBxqnloxH1Kyo_MUf&ust=1734524175780000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKinpZzkrooDFQAAAAAdAAAAABBD"
         
         }
 
